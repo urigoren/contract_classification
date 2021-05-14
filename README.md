@@ -24,5 +24,6 @@
  1.  `test_data.zip` - Unlabeled contracts
 
 ## Leaderboard
-is available at http://www.goren.ml/leaderboard
+is available at http://goren.ml/uattcontract
 
+A minimum accuracy of 90% is required
