@@ -12,7 +12,7 @@
 
  1.  Clone this repository
  1.  Download the training data from: https://drive.google.com/file/d/1CD-wyXoZ5UKJWN20kZDWvdVqcQvRCzP5/view
- 1.  Download the test data from:  https://drive.google.com/file/d/1uKQMSYVtdUJDTsNRRrNum3ZnRU4nBqqr/view
+ 1.  Download the test data from:  https://drive.google.com/file/d/1d3doBKzy3TNgtAnqkiB0BouwdOuf9pPF/view
  1.  Copy it to `data/`
  1.  Make sure all the requirements are installed `pip3 install -r requirements.txt` OR `conda install --yes --file requirements.txt` if you're with Anaconda
  1.  Launch Jupyter by running `cd notebooks; jupyter notebook` in your terminal
